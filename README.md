@@ -17,4 +17,4 @@ Welcome my GitHub profile. I’m currently working on Java and Java Testing.
 <br>
     
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gs71m4l0fy7ipv6sufm6c6bje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=gs71m4l0fy7ipv6sufm6c6bje&count={5})
