@@ -17,4 +17,4 @@ Welcome my GitHub profile. I’m currently working on Java and Java Testing.
 <br>
     
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=gs71m4l0fy7ipv6sufm6c6bje&unique=yes&width=800&count=5)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=gs71m4l0fy7ipv6sufm6c6bje&width=800&count=5)
